@@ -1,5 +1,9 @@
 ## Durin Media Azure Deployment Guide
 
+```diff
+- may be we need to refer the zip files or durin/media lake here ?
+```
+
 ### Prerequisite
 * CDS tenant Admin Credential
 * Azure Credential with Deployment permission
